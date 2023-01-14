@@ -101,7 +101,7 @@ const miModulo = (() => {
       } else if (puntosComputadora > 21 && puntosComputadora > puntosMinimos) {
         alert("Felicidades, usted ha ganado");
       }
-    }, 100);
+    }, 500);
   };
 
   //* Turno de la computadora
